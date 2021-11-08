@@ -69,6 +69,7 @@
   height: 70px;
   overflow: hidden;
   margin-bottom: 50px;
+  color: red;
 }
 .card-likes {
   width: 100%;
